@@ -20,6 +20,8 @@
 
             <label>Confirmación de contraseña: </label>
             <input type="text" name="confirmacion" required>
+
+            <button type="submit">Guardar</button>
         </form>
     </div>
 </body>

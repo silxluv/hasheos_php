@@ -7,11 +7,27 @@ body {
 .contenedor {
     max-width: 600px;
     margin: auto;
-    background: rgba(136, 127, 224, 0.904);
+    background: rgba(166, 156, 255, 0.904);
     padding: 25px;
     border-radius: 10px;
 }
 h2 {
     text-align: center;
-    color: #0c4c4e;
+    color: #1b0636;
+}
+label {
+    display: block;
+    margin-top: 12px;
+    font-weight: bold;
+}
+button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    background: #540b70;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
 }
