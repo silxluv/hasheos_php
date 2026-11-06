@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #edeaf3;
+    margin: 0;
+    padding: 30px;
+}
+.contenedor {
+    max-width: 600px;
+    margin: auto;
+    background: rgba(136, 127, 224, 0.904);
+    padding: 25px;
+    border-radius: 10px;
+}
+h2 {
+    text-align: center;
+    color: #0c4c4e;
+}
